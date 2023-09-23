@@ -1,2 +1,2 @@
 def print_hello():
-    pass
+    print('Привет, GIT!')
